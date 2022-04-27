@@ -2,7 +2,7 @@
 Hi, I'm Muhammed Suhail Cv!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://drive.google.com/file/d/1JAemMiKJHn8QjLD6AjYsDiswFpKQCD70/view?usp=sharing" align='right' alt="cvsuhail" />-->
- <img src="https://www.linkedin.com/in/suhailcv/" alt="Profile views" align='right'/> <a href="https://github.com/cvsuhail"> </a> 
+ <img src="https://media-exp1.licdn.com/dms/image/C5603AQEebjSRndP8BQ/profile-displayphoto-shrink_200_200/0/1649553641680?e=1656547200&v=beta&t=ufa41aE8r5iWfxE2oVShXQNpUTaiSxh7rnDsF7kfHYM" alt="Profile views" align='right'/> <a href="https://github.com/cvsuhail"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
